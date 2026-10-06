@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE liga SYSTEM "../dtd/resultados.dtd">
+<liga>
+    <jornada numero="10" fecha="2026-09-27">
+        <partido id="P001" estado="Finalizado">
+            <equipoLocal nombre="Pumas UNAM">
+                <marcador>1</marcador>
+                <estadisticas>
+                    <posesion>55%</posesion>
+                    <tiros>12</tiros>
+                    <faltas>10</faltas>
+                </estadisticas>
+            </equipoLocal>
+            <equipoVisitante nombre="Club América">
+                <marcador>0</marcador>
+                <estadisticas>
+                    <posesion>45%</posesion>
+                    <tiros>8</tiros>
+                    <faltas>14</faltas>
+                </estadisticas>
+            </equipoVisitante>
+            <estadio>Olímpico Universitario</estadio>
+        </partido>
+    </jornada>
+</liga>
