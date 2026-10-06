@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE liga SYSTEM "../dtd/resultados.dtd">
+<liga>
+    <jornada numero="10" fecha="2026-09-27">
+        <!-- Error 1: Falta atributo 'estado'. Error 2: Dos equipos locales y sin visitante -->
+        <partido id="P002">
+            <equipoLocal nombre="Cruz Azul"><marcador>2</marcador></equipoLocal>
+            <equipoLocal nombre="Chivas"><marcador>1</marcador></equipoLocal>
+            <estadio>Estadio Azteca</estadio>
+        </partido>
+    </jornada>
+</liga>
