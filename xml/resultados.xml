@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE liga SYSTEM "../dtd/resultados.dtd">
 <liga>
-    <jornada numero="10" fecha="2026-09-27">
+    <jornada numero="12" fecha="2026-09-27">
         <partido id="P001" estado="Finalizado">
             <equipoLocal nombre="Pumas UNAM">
                 <marcador>1</marcador>
-                <estadisticas>
-                    <posesion>55%</posesion>
-                    <tiros>12</tiros>
-                    <faltas>10</faltas>
-                </estadisticas>
+                <estadisticas><posesion>55%</posesion><tiros>12</tiros><faltas>10</faltas></estadisticas>
             </equipoLocal>
             <equipoVisitante nombre="Club América">
                 <marcador>0</marcador>
-                <estadisticas>
-                    <posesion>45%</posesion>
-                    <tiros>8</tiros>
-                    <faltas>14</faltas>
-                </estadisticas>
+                <estadisticas><posesion>45%</posesion><tiros>8</tiros><faltas>14</faltas></estadisticas>
             </equipoVisitante>
             <estadio>Olímpico Universitario</estadio>
+        </partido>
+        
+        <partido id="P002" estado="Finalizado">
+            <equipoLocal nombre="Cruz Azul">
+                <marcador>2</marcador>
+                <estadisticas><posesion>60%</posesion><tiros>15</tiros><faltas>8</faltas></estadisticas>
+            </equipoLocal>
+            <equipoVisitante nombre="Tigres UANL">
+                <marcador>2</marcador>
+                <estadisticas><posesion>40%</posesion><tiros>9</tiros><faltas>11</faltas></estadisticas>
+            </equipoVisitante>
+            <estadio>Estadio Ciudad de los Deportes</estadio>
         </partido>
     </jornada>
 </liga>
